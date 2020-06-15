@@ -1,18 +1,3 @@
-// //
-// $(document).ready(function()) {
-
-// var = moment().format();
-
-// //Crate 
-// var hours = arrayOfHours[i];
-// // Create variables for div classes for text input and save
-// var schedule = $("div textarea class='col-md-10 hour'");
-// var save = $("div class='col-md-1 saveBtn");
-
-// //var hours = i = 0; i < hours.length; i++; 
-// }
-
-
 $( document ).ready(function() {
 
 
